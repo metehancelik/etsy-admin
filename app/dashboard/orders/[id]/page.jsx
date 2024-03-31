@@ -1,6 +1,6 @@
 // import { updateProduct } from "@/app/lib/actions";
 import { getOrder } from "@/app/lib/data";
-import styles from "@/app/ui/dashboard/products/singleProduct/singleProduct.module.css";
+import styles from "@/app/ui/dashboard/orders/singleOrder/singleOrder.module.css";
 import Image from "next/image";
 
 const SingleOrderPage = async ({ params }) => {
